@@ -4,7 +4,7 @@ Unity Reflection Probe Simple Test2
 
 # ポイント
 <a href="https://gyazo.com/e6c536815137e9973a3a43f0a991376f"><img src="https://i.gyazo.com/e6c536815137e9973a3a43f0a991376f.png" alt="Image from Gyazo" width="542"/></a>
-- 床に使ってるマテリアル"mirror”にAlbedo, Metallic, Normap MapにテクスチャのDefault-Checker-Grayを指定
+- 床に使ってるマテリアル"mirror”にAlbedo, Metallic, Normal MapにテクスチャのDefault-Checker-Grayを指定
 - Tilingを16x16に指定
   
 反射だけより、かなりカッコよくなるね。  
